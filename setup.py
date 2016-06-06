@@ -11,7 +11,8 @@ version = "0.0.1"
 
 TEST_REQUIREMENTS = [
     'numpy',
-    'pillow'
+    'pillow',
+    'webtest'
 ]
 
 setup(
