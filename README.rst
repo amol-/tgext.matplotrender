@@ -1,6 +1,15 @@
 About tgext.matplotrender
 -------------------------
 
+.. image:: https://travis-ci.org/TurboGears/tgext.matplotrender.png
+    :target: https://travis-ci.org/TurboGears/tgext.matplotrender
+
+.. image:: https://coveralls.io/repos/TurboGears/tgext.matplotrender/badge.png
+    :target: https://coveralls.io/r/TurboGears/tgext.matplotrender
+
+.. image:: https://img.shields.io/:license-mit-blue.svg?style=flat-square
+    :target: https://pypi.python.org/pypi/tgext.matplotrender
+
 tgext.matplotrender is a TurboGears2 extension that provides a Rendering Engine
 for MatplotLib Figures.
 

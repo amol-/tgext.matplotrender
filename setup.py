@@ -10,7 +10,8 @@ except IOError:
 version = "0.0.1"
 
 TEST_REQUIREMENTS = [
-  'numpy',
+    'numpy',
+    'pillow'
 ]
 
 setup(
