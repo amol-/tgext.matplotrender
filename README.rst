@@ -1,11 +1,11 @@
 About tgext.matplotrender
 -------------------------
 
-.. image:: https://travis-ci.org/TurboGears/tgext.matplotrender.png
-    :target: https://travis-ci.org/TurboGears/tgext.matplotrender
+.. image:: https://travis-ci.org/amol-/tgext.matplotrender.png
+    :target: https://travis-ci.org/amol-/tgext.matplotrender
 
-.. image:: https://coveralls.io/repos/TurboGears/tgext.matplotrender/badge.png
-    :target: https://coveralls.io/r/TurboGears/tgext.matplotrender
+.. image:: https://coveralls.io/repos/amol-/tgext.matplotrender/badge.png
+    :target: https://coveralls.io/r/amol-/tgext.matplotrender
 
 .. image:: https://img.shields.io/:license-mit-blue.svg?style=flat-square
     :target: https://pypi.python.org/pypi/tgext.matplotrender
